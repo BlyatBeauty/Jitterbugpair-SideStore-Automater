@@ -1,5 +1,5 @@
 # Jitterbugpair-SideStore-Automater
-A bat script to help automate generating a pairing file to use with SideStore. Requires [Jitterbugpair](https://github.com/osy/Jitterbug/releases/download/v1.3.1/jitterbugpair-win64.zip).
+A work-in-progress batch script to help automate generating a pairing file to use with SideStore. Requires [Jitterbugpair](https://github.com/osy/Jitterbug/releases/download/v1.3.1/jitterbugpair-win64.zip).
 
 ## Instructions
 1) [Download Jitterbugpair from its official repo](https://github.com/osy/Jitterbug/releases/download/v1.3.1/jitterbugpair-win64.zip).
@@ -16,3 +16,6 @@ A bat script to help automate generating a pairing file to use with SideStore. R
 2) My antivirus flagged the bat script! 
 
 Some antivirus software may not let you download and run bat scripts directly off of the internet. The easiest solution is to copy the [raw text](https://raw.githubusercontent.com/BlyatBeauty/Jitterbugpair-SideStore-Automater/main/SideStoreJitterbugPair.bat) into Notepad on your system, then save it as a bat script - effectively making it local to your machine.
+
+## Issues
+This script is a work-in-progress! If you run into issues, please let me know by creating an issue and I'll try to help as soon as I can!
