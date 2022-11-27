@@ -10,3 +10,9 @@ A bat script to help automate generating a pairing file to use with SideStore. R
 6) Run `SideStoreJitterbugPair.bat` and follow the on-screen prompts.
 
 **Good luck!**
+
+## Troubleshooting
+1) Make sure the script is placed directly in your `jitterbugpair-win64` folder. If it is in a subfolder, the script will not run correctly.
+2) My antivirus flagged the bat script! 
+
+Some antivirus software may not let you download and run bat scripts directly off of the internet. The easiest solution is to copy the [raw text](https://raw.githubusercontent.com/BlyatBeauty/Jitterbugpair-SideStore-Automater/main/SideStoreJitterbugPair.bat) into Notepad on your system, then save it as a bat script - effectively making it local to your machine.
