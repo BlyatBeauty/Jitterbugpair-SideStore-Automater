@@ -24,6 +24,7 @@ if not errorlevel 1 (
 ) else (
 	GOTO Search2
 )
+
 :Search2
 REM ===== Second search, checks to see if PLIST Pairing File already exists  =================================
 ECHO.
@@ -54,6 +55,7 @@ if not errorlevel 1 (
 	Pause > nul
 	GOTO Jitter2
 )
+
 :Jitter2
 REM ===== Jitterbug second run - Will probably succeed assuming no errors =====================================
 jitterbugpair /verbose
