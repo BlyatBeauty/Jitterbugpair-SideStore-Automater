@@ -1,6 +1,8 @@
 @ECHO off
 
-REM Jitterbug.bat - A batch script to run jitterbugpair.exe, and convert its output to a SideStore compatible file type
+REM SideStoreJitterbugPair.bat - A batch script to run jitterbugpair.exe, and convert its output to a SideStore compatible file type
+
+REM - REM
 
 REM ===== Basic Instructions ================================================================================
 ECHO Please connect your iPhone/iPad to your computer via USB cable, and unlock it.
