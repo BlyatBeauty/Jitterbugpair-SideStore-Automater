@@ -1,8 +1,8 @@
 # Jitterbugpair-SideStore-Automater
-A work-in-progress batch script to help automate generating a pairing file to use with SideStore. Requires [Jitterbugpair](https://github.com/osy/Jitterbug/releases/download/v1.3.1/jitterbugpair-win64.zip).
+A work-in-progress batch script to help automate generating a pairing file to use with SideStore. Requires [Jitterbugpair](https://github.com/osy/Jitterbug).
 
 ## Instructions
-1) [Download Jitterbugpair from its official repo](https://github.com/osy/Jitterbug/releases/download/v1.3.1/jitterbugpair-win64.zip).
+1) [Download Jitterbugpair from its official repo](https://github.com/osy/Jitterbug/releases/download/v1.3.1/jitterbugpair-win64.zip). You will only need Jitterbugpair.
 2) Unzip the `jitterbugpair-win64.zip` zip file you just downloaded.
 3) Open the `jitterbugpair-win64` folder you just unzipped.
 4) Download [SideStoreJitterbugPair.bat](https://raw.githubusercontent.com/BlyatBeauty/Jitterbugpair-SideStore-Automater/main/SideStoreJitterbugPair.bat) and place it in the `jitterbugpair-win64` folder.
