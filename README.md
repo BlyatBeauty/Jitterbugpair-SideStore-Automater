@@ -13,7 +13,8 @@ A work-in-progress batch script to help automate generating a pairing file to us
 
 ## Troubleshooting
 1) Make sure the script is placed directly in your `jitterbugpair-win64` folder. If it is in a subfolder, the script will not run correctly.
-2) My antivirus flagged the bat script! 
+2) If Jitterbugpair is not finding your device, make sure you have iTunes installed on your PC and that it can find and connect to your iPhone/iPad. iTunes installs the drivers necessary for Jitterbugapir to communicate with your iDevice.
+3) My antivirus flagged the bat script! 
 
 Some antivirus software may not let you download and run bat scripts directly off of the internet. The easiest solution is to copy the [raw text](https://raw.githubusercontent.com/BlyatBeauty/Jitterbugpair-SideStore-Automater/main/SideStoreJitterbugPair.bat) into Notepad on your system, then save it as a bat script - effectively making it local to your machine.
 
